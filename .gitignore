@@ -11,3 +11,11 @@ __pycache__/
 
 # Ignore optional build / cache directory
 /build
+
+# Ignore DMG files and build artifacts
+*.dmg
+custom-ungoogled-chromium/
+build/
+
+# Ignore VS Code settings
+.vscode/
